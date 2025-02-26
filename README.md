@@ -50,7 +50,7 @@ Now that we can talk with our LLM, it would be nice to not have to use the termi
 
 There are several ways to install OpenWebUI, including Docker, pip, Kustomize, and Helm. In this tutorial, we will install OpenWebUI using pip.
 
-To install OpenWebUI with pip, we must first create a new Python environment (venv). Ensure you have Python 3 installed. Instructions to create and activate a Python environment vary between Windows and macOS. Follow the appropriate instructions below for your operating system.
+To install OpenWebUI with pip, we must first create a new Python environment (venv). **This venv must be python 3.12.** Ensure you have Python 3 installed. Check python version with `python --version`. Instructions to create and activate a Python environment vary between Windows and macOS. Follow the appropriate instructions below for your operating system.
 
 **Windows**
 
